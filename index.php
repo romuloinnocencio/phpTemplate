@@ -4,7 +4,7 @@
 
     <?php
 		include_once "modules/includes/head.php";			
-	?>
+    ?>
     
     <title> Título Página </title>
     <meta property="og:title" content="Título Página">
@@ -21,9 +21,23 @@
 </head>
 <body>
 
+	<!-- header -->
 	<?php
-		include_once "modules/includes/webpack.php";			
+		include_once "modules/includes/header.php";			
 	?>
+	
+	<!-- main -->
+	<section class="main page-home">
+		<div class="contente cf">
+			
+		</div>
+	</section>
+	
+	<!-- footer -->
+	<?php
+		include_once "modules/includes/footer.php";			
+	?>
+	
     <script async data-main="/js/common.min" src="//src.inf.br/vendor/require/require.min.js"></script>
 
 </body>
