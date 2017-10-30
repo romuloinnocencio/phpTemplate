@@ -20,5 +20,5 @@
 			<a class="header__nav--link" href="#link1" title="Link" tabindex="2" accesskey="2"> Link </a>
 		</nav>
 
-    </div>
+	</div>
 </header>
