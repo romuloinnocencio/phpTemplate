@@ -15,7 +15,5 @@
 <meta name="author" content="Rômulo Innocêncio #romuloinnocencio.com">				
 <link href="/css/main.min.css<?php $date = new DateTime(); echo $date->getTimestamp(); ?>" rel="stylesheet"/>
 <!-- <link href="/css/main.min.css" rel="stylesheet"> -->
-
 <!-- realfavicongenerator.net -->
-
 <!-- xml-sitemaps.com -->
