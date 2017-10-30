@@ -15,7 +15,10 @@
     <meta property="og:image:height" content="valor em px"> 
     <meta property="og:url" content="URL">
     <meta name="twitter:card" content="summary_large_image">
-    <link rel="canonical" href=""/>    
+    <link rel="canonical" href=""/>   
+	<!--<meta id="jsPageID" data-value=""/>-->
+	<!-- realFavIconGenerator -->
+    <!-- gerar utilizando https://www.xml-sitemaps.com -->	
 
 </head>
 </head>
